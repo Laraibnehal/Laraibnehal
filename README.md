@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Laraibnehal](https://github.com/Laraibnehal)
 
-- 💬 Ask me about **HTML5, CSS, Js, NodeJs**
+- 💬 Ask me about **HTML5, CSS, NodeJs**
 
 - 📫 How to reach me **laraibmallick7@gmail.com**
 
