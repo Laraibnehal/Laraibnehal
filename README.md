@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laraib Nehal</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/95610027/203306250-10eb08dc-3875-4920-a87a-716f927b56d9.png">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laraibnehal&label=Profile%20views&color=0e75b6&style=flat" alt="laraibnehal" /> </p>
 -⚡ Fun fact **I read books and do paintings**
 
