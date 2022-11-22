@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Laraib Nehal</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/95610027/203306250-10eb08dc-3875-4920-a87a-716f927b56d9.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laraibnehal&label=Profile%20views&color=0e75b6&style=flat" alt="laraibnehal" /> </p>
+-⚡ Fun fact **I read books and do paintings**
 
+-👨‍💻 All of my projects are available at [https://github.com/Laraibnehal](https://github.com/Laraibnehal)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laraibnehal" alt="laraibnehal" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/laraibnehal" target="blank"><img src="https://img.shields.io/twitter/follow/laraibnehal?logo=twitter&style=for-the-badge" alt="laraibnehal" /></a> </p>
 
 - 🌱 I’m currently learning **Java, MERN stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Laraibnehal](https://github.com/Laraibnehal)
+
 
 - 📝 I regularly write articles on [https://laraibnehal.hashnode.dev/](https://laraibnehal.hashnode.dev/)
 
@@ -19,7 +22,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OyykBWjL74r5zVC0SV20xp46W3rxO1by/view?usp=sharing](https://drive.google.com/file/d/1OyykBWjL74r5zVC0SV20xp46W3rxO1by/view?usp=sharing)
 
-- ⚡ Fun fact **I read books and do paintings**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
