@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **laraibmallick7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OyykBWjL74r5zVC0SV20xp46W3rxO1by/view?usp=sharing](https://drive.google.com/file/d/1OyykBWjL74r5zVC0SV20xp46W3rxO1by/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1W0ZgyEEFNV-OuQz0W8ht4UAWvVPMdu_P/view?usp=sharing](https://drive.google.com/file/d/1W0ZgyEEFNV-OuQz0W8ht4UAWvVPMdu_P/view?usp=sharing)
 
 
 
